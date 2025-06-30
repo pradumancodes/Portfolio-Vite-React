@@ -1,12 +1,51 @@
-# React + Vite
+# 🌐 Praduman Sharma — Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal developer portfolio! Built with **React**, **Vite**, and **Tailwind CSS**, this project showcases my skills, projects, and passion for building intelligent and impactful digital solutions.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+🔗 [Visit My Portfolio](https://your-username.vercel.app)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 👋 About Me
+
+I’m **Praduman Sharma**, a passionate **AI/ML Developer** and **Full Stack Engineer** focused on building scalable and intelligent applications that blend clean code with smart systems. I love turning ideas into real-world products using technologies like Python, React, Flask, and TensorFlow.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Vite, Tailwind CSS, Framer Motion
+- **Backend (in projects):** Python, Flask, Node.js
+- **AI/ML:** Scikit-learn, TensorFlow, Pandas, NumPy
+- **Tools:** GitHub, VS Code, Figma, Vercel
+
+---
+
+## 🎯 Features
+
+- 🔥 Responsive & Modern UI (Mobile-first)
+- 🌓 Dark/Light Mode Toggle
+- ✨ Animated Hero Section with Star Background
+- 📁 Dynamic Projects Section
+- 💬 Contact Form (scroll-to-connect)
+- 🌈 Custom “Let’s Connect” button with RGB border glow
+
+---
+
+## 📸 Screenshots
+
+> _Add a few screenshots here of your site_
+
+---
+
+## 📦 Installation & Setup
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+npm install
+npm run dev
