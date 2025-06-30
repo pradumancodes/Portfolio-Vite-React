@@ -19,7 +19,7 @@ export const HeroSection = () => {
                 "Transforming Ideas into Intelligent Solutions with Code."
                 </h2>
                 <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-4">
-                    A passionate <b>AI/ML Developer</b> & <b>Full Stack Engineer</b> focused on creating intelligent, scalable, and impactful tech solutions.
+                    A passionate <b>AI/ML Developer</b> & <b>Full Stack Engineer</b> focused on creating intelligent, scalable, and impactful tech solutions. From training models that learn from data to crafting dynamic web apps with React and Flask, I love bridging intelligence with usability. Every project I work on is a step toward creating smarter, faster, and more human-centered digital experiences.
                 </p>
 
                 <div className="pt-4 opacity-0 animate-fade-in-delay-5">
