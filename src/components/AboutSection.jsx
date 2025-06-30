@@ -1,4 +1,4 @@
-import { Briefcase, Code, User } from "lucide-react";
+import { ArrowRight, Briefcase, Code, User } from "lucide-react";
 
 
 export const AboutSection = () => {
@@ -29,13 +29,14 @@ export const AboutSection = () => {
                             </a>
                         </div>
                     </div>
+                    
                     <div className="gird grid-cols-1 gap-6">
                         <div className="gradient-border p-6 card-hover">
                             <div className="flex items-start gap-4">
                                 <div className="p-3 rounded-full bg-primary/10"> <Code className="h-6 w-5 text-primary"/>
                                 </div>
                                 <div className="text-left">
-                                    <h4 className="font-semibold text-lg"> Machine Learning & AI</h4>
+                                    <h4 className="font-semibold text-lg"> <a className="text-muted-foreground hover:text-primary transition-colors" href="https://drive.google.com/file/d/14Gu11V_k7lKtYzxaurtTbSZ0EDgNL8-6/view?usp=drive_link" > Machine Learning & AI </a> </h4>
                                     <p className="text-muted-foreground"> Creating intelligent systems that learn, predict, and automate using Python, Scikit-Learn, and TensorFlow.</p>
                                 </div>
                             </div>
@@ -45,7 +46,7 @@ export const AboutSection = () => {
                                 <div className="p-3 rounded-full bg-primary/10"> <User className="h-6 w-5 text-primary"/>
                                 </div>
                                 <div className="text-left">
-                                    <h4 className="font-semibold text-lg"> Full Stack Development</h4>
+                                    <h4 className="font-semibold text-lg"> <a className="text-muted-foreground hover:text-primary transition-colors" href="https://drive.google.com/file/d/1cd6odP-YyDBu4or6Ebkhy60insG3HGKL/view?usp=drive_link">Full Stack Development</a></h4>
                                     <p className="text-muted-foreground"> Building scalable web applications using React, Node.js, and Flask with a focus on clean architecture.</p>
                                 </div>
                             </div>
@@ -55,7 +56,7 @@ export const AboutSection = () => {
                                 <div className="p-3 rounded-full bg-primary/10"> <Briefcase className="h-6 w-5 text-primary"/>
                                 </div>
                                 <div className="text-left">
-                                    <h4 className="font-semibold text-lg"> Python Automation</h4>
+                                    <h4 className="font-semibold text-lg"> <a className="text-muted-foreground hover:text-primary transition-colors" href="https://drive.google.com/file/d/1A0G6dXaWOKBtMxfxLl-5HJ5thFbiuyuc/view?usp=drive_link">Python Development </a></h4>
                                     <p className="text-muted-foreground"> Developing smart Python scripts and tools to automate workflows, handle data, and simplify processes.</p>
                                 </div>
                             </div>
