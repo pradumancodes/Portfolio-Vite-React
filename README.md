@@ -6,7 +6,7 @@ Welcome to my personal developer portfolio! Built with **React**, **Vite**, and 
 
 ## 🚀 Live Demo
 
-🔗 [Visit My Portfolio](https://your-username.vercel.app)
+🔗 [Visit My Portfolio](https://portfolio-vite-react-inky.vercel.app/)
 
 ---
 
@@ -44,8 +44,14 @@ I’m **Praduman Sharma**, a passionate **AI/ML Developer** and **Full Stack Eng
 
 ## 📦 Installation & Setup
 
-```bash
+
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 npm install
 npm run dev
+
+
+
+🌍 Deployment
+Deployed using Vercel — auto-deployed from GitHub main branch.
+
