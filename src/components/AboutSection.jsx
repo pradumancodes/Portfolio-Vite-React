@@ -24,7 +24,7 @@ export const AboutSection = () => {
                                 {" "}
                                 Let's Connect
                             </a>
-                            <a href="https://drive.google.com/file/d/1T-hrses6htzs39x3OuuT8fOWSkRV1Slp/view?usp=drive_link" className="cosmic-button-rgb-border">
+                            <a href="https://drive.google.com/drive/u/0/folders/1fg7yWPDjp8uOV_jIsy1rOoSNYjUV3chm" className="cosmic-button-rgb-border">
                                 View CV
                             </a>
                         </div>
